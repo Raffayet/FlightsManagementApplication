@@ -1,0 +1,9 @@
+jovan432|74io267|Jovan|Dafinic|kupac|001987461|Srpsko|0628769901|jovo45@email.com|muski
+milan235|64239ttr|Milan|Tanaskovic|menadzer
+aleksandar2|af347128|Aleksandar|Gojkovic|menadzer
+andjela76|34gd2671|Andjela|Nastasic|prodavac
+danijela11|42r654|Danijela|Stanimirovic|prodavac
+horacije44|32ga3444|Horacije|Petrovic|kupac|764778019|Hrvatsko|060271228|horapetro23@email.com|muski
+milica68|efahff44|Milica|Berger|kupac|832133492|Nemacko|0613009657|comiberger@email.com|zenski
+milan32|gasddaf43|Milan|Trivunovic|prodavac
+angelina39|fahaeryh54|Angelina|Mirkovic|kupac|965849001|Srpsko|0653334021|angelinam2@email.com|zenski

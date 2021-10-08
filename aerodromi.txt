@@ -1,0 +1,12 @@
+FCO|Aerodrom Fiumicino|Rim|Italija
+TXL|Aerodrom Tegel|Berlin|Nemacka
+ICN|Aerodrom Incheon|Seul|Juzna Koreja
+LCY|Aerodrom London City|London|Ujedinjeno Kraljevstvo
+ARN|Aerodrom Arlanda|Stokholm|Svedska
+BEG|Aerodrom Nikola Tesla|Beograd|Srbija
+DME|Aerodrom Domodedovo|Moskva|Rusija
+YHM|Aerodrom Hamilton|Toronto|Kanada
+OTP|Aerodrom Otopeni|Bukurest|Ruminija
+LGW|Aerodrom Gatwick|London|Ujedinjeno Kraljevstvo
+CIA|Aerodrom Ciampino|Rim|Italija
+NAY|Aerodrom Nanyuan|Peking|Kina

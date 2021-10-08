@@ -1,0 +1,12 @@
+0001|01|0032|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|1.1|2.5|25.2|25.2|25.5|24.3|23.2|23.6|25.1
+0002|02|0046|milica68|0613009657|comiberger@email.com|Milica|Berger|832133492|Nemacko|zenski
+0003|03|0051|jovan432|0628769901|jovo45@email.com|Jovan|Dafinic|001987461|Srpsko|muski
+0004|04|0004|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|18.5|27.6|29.1|29.5|30.1|27.1|21.2
+0005|05|0004|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|4.3|4.3|4.3|4.3|4.3|4.2|4.3|3.4|2.3|3.4|3.4|4.3|3.4|2.3|2.3|3.4|3.4|3.4|3.4|3.4|3.2|3.2|3.2|2.3|3.4|2.3|3.4|1.1|3.4|2.1|2.4|3.4|2.5|2.4|2.5|3.5|1.1|4.2|2.7|1.1|5.5|8.8|4.7|2.2|3.6|1.8|2.1|10.2|1.6|2.5|9.5|12.4|24.4|30.2|30.3|29.1|30.5|30.6|30.6|30.6|30.6|25.3|29.3|28.5|25.5|26.2|19.2|26.4
+0006|06|0055|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|36.2|39.2|38.5|34.2|39.4|40.1|40.3|38.1|34.4|35.4|36.4
+0007|07|0055|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|37.2|40.2|35.2|28.2
+0008|08|0006|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski
+0009|09|0014|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski|29.1|21.2
+0010|10|0042|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski
+0011|11|0054|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski
+0012|12|0054|horacije44|060271228|horapetro23@email.com|Horacije|Petrovic|764778019|Hrvatsko|muski

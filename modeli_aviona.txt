@@ -1,0 +1,4 @@
+Boeing 737|30|H
+Boeing 787-9|25|I
+Beriev Be-200|35|M
+Airbus A380|40|F
